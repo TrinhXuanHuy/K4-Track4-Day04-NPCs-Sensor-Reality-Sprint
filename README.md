@@ -10,9 +10,11 @@ Mở `T4_LIO_SAM_real_data_benchmark.ipynb` trên Google Colab → Runtime → R
 
 - `evidence/metrics.csv`: metric đầy đủ của 5 điều kiện.
 - `evidence/config.json`: cấu hình, phiên bản thư viện, SHA256 dataset.
-- `evidence/run.log`: log lần chạy hoàn tất.
-- `evidence/offset_results.png`, `sensor_timeline.png`, `failure_case.png`: plot và timeline.
+- `evidence/topics.json`: kiểm tra topic ROS (/points_raw, /imu_correct) và số lượng bản tin.
+- `evidence/run.log`: log lần chạy hoàn tất, kiểm tra tần số IMU và timestamp.
+- `evidence/offset_results.png`, `sensor_timeline.png`, `failure_case.png`: plot và timeline đa cảm biến.
 - `evidence/worst_compensated_scan.json`: scan 183, t=18,371 s, RMSE sau bù 1,833 m.
+- `evidence/provenance.json`: xuất xứ bằng chứng, SHA256 notebook và xác thực kiểm tra dữ liệu.
 
 Ở 200 ms: RMSE tổng 1,344 → 0,550 m; P95 sau bù 1,119 m. Ngân sách 0,5 m do nhóm chọn cho demo. Bù bằng ngoại suy vận tốc góc hằng; chưa đo tịnh tiến, lever arm, camera/radar, ghost rate hay trajectory ATE. Plot failure chọn scan có RMSE trước bù lớn nhất; JSON chọn scan có RMSE sau bù lớn nhất.
 

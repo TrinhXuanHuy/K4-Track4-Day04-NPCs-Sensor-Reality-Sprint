@@ -1,0 +1,12 @@
+[
+  {
+    "topic": "/imu_correct",
+    "type": "sensor_msgs/msg/Imu",
+    "count": 29316
+  },
+  {
+    "topic": "/points_raw",
+    "type": "sensor_msgs/msg/PointCloud2",
+    "count": 582
+  }
+]

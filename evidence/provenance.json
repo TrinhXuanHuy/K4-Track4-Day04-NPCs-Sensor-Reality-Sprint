@@ -4,6 +4,22 @@
   },
   "evidence_origin": "Notebook saved plots; metrics/config/log from completed Colab rerun",
   "dataset_bytes": 352061920,
+  "dataset_sha256": "2c034b042aa574b0ec97a6a5114d7f7e985916df699ab291fcf63c04a9098b4b",
+  "verified_by": "Trịnh Xuân Huy (MSSV: 2A202602995)",
+  "task": "Chuẩn bị dataset, kiểm tra topic (/points_raw, /imu_correct) và tính toàn vẹn timestamp đa cảm biến",
+  "topics_verified": [
+    {
+      "topic": "/imu_correct",
+      "type": "sensor_msgs/msg/Imu",
+      "count": 29316
+    },
+    {
+      "topic": "/points_raw",
+      "type": "sensor_msgs/msg/PointCloud2",
+      "count": 582
+    }
+  ],
+  "imu_rate_hz_median": 967.9907685206555,
   "python_recorded": "3.13.15",
   "no_upstream_binary_executed": true
 }
