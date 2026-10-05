@@ -1,0 +1,13 @@
+{
+  "offset_ms": 200.0,
+  "scan_id": 183.0,
+  "t_s": 18.371292114257812,
+  "N": 3000.0,
+  "raw_proxy_rmse_m": 4.8623377681873965,
+  "comp_proxy_rmse_m": 1.8330035417713308,
+  "raw_p95_m": 12.069685985004485,
+  "comp_p95_m": 4.569224423068985,
+  "clock_fixed_proxy_rmse_m": 0.0,
+  "linear_prediction_rmse_m": 3.864589399835493,
+  "within_scan_deskew_difference_rmse_m": 0.3057964978215748
+}

@@ -1,0 +1,15 @@
+DATA LOADED: {"dataset_bytes": 352061920, "scans": 298, "points": 894000, "interval_s": [2, 32]}
+IMU median rate Hz: 967.9907685206555
+Point time range s: [np.float64(0.0), np.float64(0.10092909634113312)]
+PROTOCOL: paired point displacement versus zero-added-offset IMU reference, rotation only.
+BASELINE PASS before perturbation sweep
+MEASURED {"offset_ms": 0, "scans": 298, "points": 894000, "raw_proxy_rmse_m": 0.0, "comp_proxy_rmse_m": 8.374030672390143e-16, "raw_p95_m": 0.0, "comp_p95_m": 9.155133597044475e-16, "clock_fixed_proxy_rmse_m": 0.0, "linear_prediction_rmse_m": 0.0, "within_scan_deskew_difference_rmse_m": 0.0, "raw_over_0p5m_pct": 0.0, "comp_over_0p5m_pct": 0.0, "processing_seconds": 10.106911354999966}
+MEASURED {"offset_ms": 50, "scans": 298, "points": 894000, "raw_proxy_rmse_m": 0.35363593966429546, "comp_proxy_rmse_m": 0.09160621314791421, "raw_p95_m": 0.6718949527227834, "comp_p95_m": 0.1819284456459933, "clock_fixed_proxy_rmse_m": 0.0, "linear_prediction_rmse_m": 0.35156093827879886, "within_scan_deskew_difference_rmse_m": 0.11328988778867843, "raw_over_0p5m_pct": 8.838255033557047, "comp_over_0p5m_pct": 0.29261744966442954, "processing_seconds": 9.634678014999963}
+MEASURED {"offset_ms": 100, "scans": 298, "points": 894000, "raw_proxy_rmse_m": 0.6935458300474037, "comp_proxy_rmse_m": 0.2156904008515878, "raw_p95_m": 1.3198042898619475, "comp_p95_m": 0.43620914093214525, "clock_fixed_proxy_rmse_m": 0.0, "linear_prediction_rmse_m": 0.7058014795072337, "within_scan_deskew_difference_rmse_m": 0.1655987437253055, "raw_over_0p5m_pct": 28.82315436241611, "comp_over_0p5m_pct": 3.7012304250559285, "processing_seconds": 9.376654347999875}
+MEASURED {"offset_ms": 150, "scans": 298, "points": 894000, "raw_proxy_rmse_m": 1.0244457179583801, "comp_proxy_rmse_m": 0.3745067970085474, "raw_p95_m": 1.9448629138843914, "comp_p95_m": 0.739535936892664, "clock_fixed_proxy_rmse_m": 0.0, "linear_prediction_rmse_m": 1.0367161706134862, "within_scan_deskew_difference_rmse_m": 0.20976899519789804, "raw_over_0p5m_pct": 48.8837807606264, "comp_over_0p5m_pct": 10.729753914988814, "processing_seconds": 8.733684408000045}
+MEASURED {"offset_ms": 200, "scans": 298, "points": 894000, "raw_proxy_rmse_m": 1.3436874376872636, "comp_proxy_rmse_m": 0.5503634631529055, "raw_p95_m": 2.5479325081133455, "comp_p95_m": 1.1190974135337735, "clock_fixed_proxy_rmse_m": 0.0, "linear_prediction_rmse_m": 1.3830316659902977, "within_scan_deskew_difference_rmse_m": 0.23565839583341283, "raw_over_0p5m_pct": 64.67807606263982, "comp_over_0p5m_pct": 19.832662192393734, "processing_seconds": 9.64343322700006}
+DONE: same real points for all conditions. Clock-fixed zero is a construction sanity check.
+IMU gyro-vs-quaternion derivative RMS rad/s: 1.076024829572736
+IMU effective mean rate Hz: 499.9992548566378
+IMU interval p5/p50/p95 ms: [0.9360313415527344, 1.0330677032470703, 4.051923751831055]
+PLOTS AND REPORT SAVED

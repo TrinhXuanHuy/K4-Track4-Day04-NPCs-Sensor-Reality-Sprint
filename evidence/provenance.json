@@ -1,0 +1,9 @@
+{
+  "sha256": {
+    "T4_LIO_SAM_real_data_benchmark.ipynb": "de3637bae8a69fd25d856aecfffc20e351a2f233ae301dd6a153cf5d2716e125"
+  },
+  "evidence_origin": "Notebook saved plots; metrics/config/log from completed Colab rerun",
+  "dataset_bytes": 352061920,
+  "python_recorded": "3.13.15",
+  "no_upstream_binary_executed": true
+}

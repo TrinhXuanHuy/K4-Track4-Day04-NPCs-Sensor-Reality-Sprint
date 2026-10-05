@@ -1,0 +1,44 @@
+{
+  "dataset": "LIO-SAM rotation_dataset.bag",
+  "source_url": "https://drive.google.com/file/d/1bwXvlEX0RYkixR3LDHte-U_KpMMIRG8x/view",
+  "dataset_bytes": 352061920,
+  "dataset_sha256": "2c034b042aa574b0ec97a6a5114d7f7e985916df699ab291fcf63c04a9098b4b",
+  "interval_s": [
+    2,
+    32
+  ],
+  "epoch_unix_s": 1574086536.1888528,
+  "offsets_ms": [
+    0,
+    50,
+    100,
+    150,
+    200
+  ],
+  "min_range_m": 2,
+  "max_range_m": 30,
+  "max_points_per_scan": 3000,
+  "scans": 298,
+  "points": 894000,
+  "versions": {
+    "numpy": "2.1.3",
+    "scipy": "1.16.3",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.0",
+    "rosbags": "0.11.5",
+    "gdown": "5.2.2"
+  },
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "random_seed": null,
+  "extrinsic_rotation": "identity per Rotation dataset README",
+  "compensation": "constant body angular velocity extrapolation of stale IMU attitude",
+  "offset_convention": "IMU header shifted +delta; query original attitude at t-delta",
+  "reference": "same real LiDAR points transformed using zero-added-offset IMU attitude; internal proxy, NOT ground truth",
+  "omissions": [
+    "ego translation",
+    "lever arm",
+    "target motion",
+    "full LIO-SAM",
+    "independent ground truth"
+  ]
+}

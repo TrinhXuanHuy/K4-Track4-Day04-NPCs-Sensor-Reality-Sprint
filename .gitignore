@@ -1,0 +1,5 @@
+*.bag
+*.npz
+tmp/
+__pycache__/
+T4_NPCs_real_results.zip
