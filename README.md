@@ -18,14 +18,14 @@ Mở `T4_LIO_SAM_real_data_benchmark.ipynb` trên Google Colab → Runtime → R
 
 ## Báo cáo riêng
 
-| Thành viên | Tệp nộp |
-|---|---|
-| Nguyễn Văn Chiến - 2A202602926 | output/pdf/Nguyễn Văn Chiến_02926.pdf |
-| Trịnh Xuân Huy | output/pdf/Trịnh Xuân Huy.pdf |
-| Đinh Lệnh Tiến Anh | output/pdf/Đinh Lệnh Tiến Anh.pdf |
-| Đặng Thái Anh | output/pdf/Đặng Thái Anh.pdf |
+| Thành viên | MSSV | Tệp nộp |
+|---|---|---|
+| Nguyễn Văn Chiến | 2A202602926 | output/pdf/Nguyễn Văn Chiến_02926.pdf |
+| Trịnh Xuân Huy | 2A202602995 | output/pdf/Trịnh Xuân Huy_02995.pdf |
+| Đinh Lệnh Tiến Anh | 2A202602928 | output/pdf/Đinh Lệnh Tiến Anh_02928.pdf |
+| Đặng Thái Anh | 2A202602740 | output/pdf/Đặng Thái Anh_02740.pdf |
 
-MSSV chưa có được để trống; phân công nhiệm vụ nằm trong TEAMMATES.md và từng báo cáo. Danh sách hiện có 4 người, đề yêu cầu 5 người. Mỗi người nộp PDF riêng và cùng URL repository; chưa nộp VLearn.
+Danh sách hiện có 4 người, đề yêu cầu 5 người. Mỗi người nộp PDF riêng và cùng URL repository; chưa nộp VLearn.
 
 Repository chung: https://github.com/TrinhXuanHuy/K4-Track4-Day04-NPCs-Sensor-Reality-Sprint
 
